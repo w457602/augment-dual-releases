@@ -1,4 +1,4 @@
-# AugmentInjector - 基于https://github.com/llpplplp/AugmentInjector逆向二开，并增加清理功能，构建多端。感谢原作者，如有侵权，请联系我进行删除。感谢。
+# AugmentInjector - 基于https://github.com/llpplplp/AugmentInjector 逆向二开，并增加清理功能，构建多端。感谢原作者，如有侵权，请联系我进行删除。感谢。
 
 🚀 **跨平台 VS Code Augment 注入管理器**
 
